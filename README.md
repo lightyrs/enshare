@@ -1,0 +1,4 @@
+enshare
+=======
+
+Ensnare the share.
